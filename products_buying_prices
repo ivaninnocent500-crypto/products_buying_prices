@@ -31,8 +31,8 @@
       "unit": "piece"
     },
     {
-      "id": "refractory_cement",
-      "name": "Refractory Cement",
+      "id": "cement_pack_size_50kg",
+      "name": "Cement_Pack_Size_50kg",
       "category": "TENDER",
       "buying_price": 17500.0,
       "unit": "bag"
