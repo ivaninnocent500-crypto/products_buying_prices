@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-05-29",
+  "products": [
+    {
+      "id": "stone_crush_19mm",
+      "name": "Stone Crush 19mm",
+      "category": "CONTRACTUAL",
+      "buying_price": 48888.9,
+      "unit": "ton"
+    },
+    {
+      "id": "stone_crush_half_mm",
+      "name": "Stone Crush 1/2mm",
+      "category": "CONTRACTUAL",
+      "buying_price": 130232.0,
+      "unit": "ton"
+    },
+    {
+      "id": "stone_gabion",
+      "name": "Stone GABION",
+      "category": "CONTRACTUAL",
+      "buying_price": 43345.0,
+      "unit": "ton"
+    },
+    {
+      "id": "basket_gabion",
+      "name": "Basket GABION",
+      "category": "CONTRACTUAL",
+      "buying_price": 60000.0,
+      "unit": "piece"
+    },
+    {
+      "id": "refractory_cement",
+      "name": "Refractory Cement",
+      "category": "TENDER",
+      "buying_price": 17500.0,
+      "unit": "bag"
+    },
+    {
+      "id": "tiles_floor_porcelain_600mm",
+      "name": "Tiles Floor Porcelain 600mm",
+      "category": "TENDER",
+      "buying_price": 69000.0,
+      "unit": "sqm"
+    }
+  ]
+}
+
