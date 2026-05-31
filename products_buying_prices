@@ -62,7 +62,7 @@
       "id": "iron_machine",
       "name": "Iron Machine",
       "category": "TENDER",
-      "buying_price": 80000.0,
+      "buying_price": 32500.0,
       "unit": "piece"
     },
     {
