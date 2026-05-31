@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "last_updated": "2026-05-29",
+  "version": "1.1",
+  "last_updated": "2026-05-31",
   "products": [
     {
       "id": "stone_crush_19mm",
@@ -43,6 +43,34 @@
       "category": "TENDER",
       "buying_price": 69000.0,
       "unit": "sqm"
+    },
+    {
+      "id": "small_dustbin",
+      "name": "Small Dustbin",
+      "category": "GENERAL",
+      "buying_price": 70000.0,
+      "unit": "piece"
+    },
+    {
+      "id": "medium_dustbin",
+      "name": "Medium Dustbin",
+      "category": "GENERAL",
+      "buying_price": 10300.0,
+      "unit": "piece"
+    },
+    {
+      "id": "iron_machine",
+      "name": "Iron Machine",
+      "category": "TENDER",
+      "buying_price": 80000.0,
+      "unit": "piece"
+    },
+    {
+      "id": "burnt_brick",
+      "name": "Burnt Brick",
+      "category": "GENERAL",
+      "buying_price": 150.0,
+      "unit": "piece"
     }
   ]
 }
